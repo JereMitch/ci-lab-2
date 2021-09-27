@@ -1,5 +1,5 @@
 function getGreeting(name){
-    return "Hi " + name;
+    return `Hi ${name}!`;
 }
 
 function getColor(color){
