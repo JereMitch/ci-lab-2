@@ -1,5 +1,5 @@
 function getGreeting(name){
-    return "Hi lskadfj" + name;
+    return "Hi " + name;
 }
 
 module.exports = getGreeting;
